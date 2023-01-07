@@ -1,0 +1,11 @@
+{
+    "name": "MasterProduct",
+    "alias": "master-product",
+    "description": "Master Product",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MasterProduct\\Providers\\MasterProductServiceProvider"
+    ],
+    "files": []
+}

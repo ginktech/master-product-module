@@ -1,0 +1,22 @@
+{
+	"name": "dev-ginktech/masterproduct",
+	"type": "laravel-module",
+	"description": "",
+	"authors": [
+		{
+			"name": "Yudha Angga Wijaya",
+			"email": "work.yudhaanggawijaya@gmail.com"
+		}
+	],
+	"extra": {
+		"laravel": {
+			"providers": [],
+			"aliases": {}
+		}
+	},
+	"autoload": {
+		"psr-4": {
+			"Modules\\MasterProduct\\": ""
+		}
+	}
+}
